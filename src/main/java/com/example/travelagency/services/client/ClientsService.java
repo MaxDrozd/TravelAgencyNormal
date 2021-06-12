@@ -17,11 +17,11 @@ public class ClientsService {
     void init(){
         clients = new ArrayList<>(
                 Arrays.asList(
-                        new Client(2 , "Malva" , "GG" , "las" ,  "backer-street" , "0448475992"),
-                        new Client(4 , "Kykak" , "FF" , "lor" ,  "backer-street" , "0669223550"),
-                        new Client(8 , "Damal" , "RR" , "vor" ,  "backer-street" , "0992256197"),
-                        new Client(1 , "Lilov" , "SS" , "zak" ,  "backer-street" , "0556783743"),
-                        new Client(3 , "Kamar" , "BB" , "pop" ,  "backer-street" , "0462646728")
+                        new Client(2 , "Sasha" , "Grigoryak" , "l" ,  "backer-street" , "0448475992"),
+                        new Client(4 , "Sveta" , "Savich" , "lor" ,  "backer-street" , "0669223550"),
+                        new Client(8 , "Andriy" , "Lipenko" , "vor" ,  "backer-street" , "0992256197"),
+                        new Client(1 , "Luybov" , "Silovich" , "zak" ,  "backer-street" , "0556783743"),
+                        new Client(3 , "Denis" , "Bibikov" , "pop" ,  "backer-street" , "0462646728")
 
                 )
         );
